@@ -1,0 +1,6 @@
+{
+  "name": "HTA Pediatric Inhaler Counselling Portal",
+  "description": "Portal panduan teknik inhaler dan spacer untuk pesakit pediatrik Jabatan Kecemasan & Farmasi Hospital Tunku Azizah (HTA). Panduan video, risalah interaktif, checklist keyakinan, dan tempahan kaunseling maya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
